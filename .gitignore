@@ -1,5 +1,6 @@
 # Temporary Files #
 *~
+.DS_Store
 
 # Test Data Files #
 swimdata
